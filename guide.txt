@@ -1,0 +1,11 @@
+step 1:
+Add submit eventListener to the form to listen for submissions
+
+step 2:
+Fetch the api and put the username value.
+
+step 3:
+put the user and repo
+
+step 4:
+Catch error
